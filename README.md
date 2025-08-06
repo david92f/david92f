@@ -1,4 +1,6 @@
-### Hi 👋, I'm David Fernández
+<h1 align="center">Hi 👋, I'm David Fernández</h1>
+
+---
 
 Analista Programador & Senior Consultant | Java | Microservicios | Cloud (AWS) | Migraciones Tecnológicas
 
