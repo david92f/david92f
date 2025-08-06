@@ -26,7 +26,7 @@ Analista Programador & Senior Consultant | Java | Microservicios | Cloud (AWS) |
 
 **🔗 Conecta**
 
-* **Email:** david 92f@live.com
+* **Email:** david_92f@live.com
 * **LinkedIn:** https://www.linkedin.com/in/david-fernandez-fernandez/
 * **Teléfono:** 634034917
 
