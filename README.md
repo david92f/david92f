@@ -1,55 +1,84 @@
-<h1 align="center">Hi 👋, I'm David Fernández</h1>
+<div align="center">
+  <h1>Hi 👋, I'm David Fernández</h1>
+  <h3>Analista Programador & Senior Consultant | Java | Microservicios | Cloud (AWS) | Migraciones Tecnológicas</h3>
+</div>
 
-Analista Programador & Senior Consultant | Java | Microservicios | Cloud (AWS) | Migraciones Tecnológicas
+<br/>
 
----
+<hr/>
 
-**Sobre Mí**
+<div align="center">
+  <h3>Sobre Mí</h3>
+</div>
 
-* **Senior Consultant** con más de 5 años de experiencia en desarrollo backend en Java.
-* Especializado en la creación e implementación de **APIs RESTful** y arquitecturas de **microservicios** robustas.
-* Experiencia en migraciones tecnológicas (Java 6 a 11 y Oracle a PostgreSQL) y optimización de sistemas.
-* He logrado una reducción del tiempo de respuesta del 30%.
-* Me adapto ágilmente a nuevos desafíos y tecnologías.
+<ul>
+  <li><b>Senior Consultant</b> con más de 5 años de experiencia en desarrollo backend en Java.</li>
+  <li>Especializado en la creación e implementación de <b>APIs RESTful</b> y arquitecturas de <b>microservicios</b> robustas.</li>
+  <li>Experiencia en migraciones tecnológicas (Java 6 a 11 y Oracle a PostgreSQL) y optimización de sistemas.</li>
+  <li>He logrado una reducción del tiempo de respuesta del 30%.</li>
+  <li>Me adapto ágilmente a nuevos desafíos y tecnologías.</li>
+</ul>
 
----
+<hr/>
 
-**🛠 Core Tech Stack**
+<div align="center">
+  <h3>🛠 Core Tech Stack</h3>
+</div>
 
-* **Lenguajes y Frameworks:** Java, SQL, Python, Spring Boot, Quarkus, Struts, Hibernate, JPA, Maven.
-* **Desarrollo y APIs:** API RESTful, OpenAPI, Microservicios.
-* **Bases de Datos:** Oracle, PostgreSQL, MySQL, H2.
-* **DevOps y Cloud:** Docker, AWS (Amazon EKS), GitLab, Git, CI/CD (Jenkins, GitLab CI).
-* **Herramientas y Metodologías:** IntelliJ IDEA, JIRA, Scrum, Agile.
+<ul>
+  <li><b>Lenguajes y Frameworks:</b> Java, SQL, Python, Spring Boot, Quarkus, Struts, Hibernate, JPA, Maven.</li>
+  <li><b>Desarrollo y APIs:</b> API RESTful, OpenAPI, Microservicios.</li>
+  <li><b>Bases de Datos:</b> Oracle, PostgreSQL, MySQL, H2.</li>
+  <li><b>DevOps y Cloud:</b> Docker, AWS (Amazon EKS), GitLab, Git, CI/CD (Jenkins, GitLab CI).</li>
+  <li><b>Herramientas y Metodologías:</b> IntelliJ IDEA, JIRA, Scrum, Agile.</li>
+</ul>
 
----
+<hr/>
 
-**🔗 Conecta**
+<div align="center">
+  <h3>🔗 Conecta</h3>
+</div>
 
-* **Email:** david_92f@live.com
-* **LinkedIn:** https://www.linkedin.com/in/david-fernandez-fernandez/
+<ul>
+  <li><b>Email:</b> <a href="mailto:david_92f@live.com">david_92f@live.com</a></li>
+  <li><b>LinkedIn:</b> <a href="https://www.linkedin.com/in/david-fernandez-fernandez/">https://www.linkedin.com/in/david-fernandez-fernandez/</a></li>
+</ul>
 
----
+<hr/>
 
-**📄 Resumen Profesional (Highlights del CV)**
+<div align="center">
+  <h3>📄 Resumen Profesional (Highlights del CV)</h3>
+</div>
 
-**Senior Consultant, Devoteam** (Junio 2024 - Marzo 2025)
-* Lideré proyectos de desarrollo backend con Java 17, Quarkus y Docker.
-* Implementación de servicios en **AWS (Amazon EKS)** para asegurar escalabilidad y resiliencia.
-* Logro destacado: Reducción del tiempo de respuesta en un 30%.
+<b>Senior Consultant, Devoteam</b> (Junio 2024 - Marzo 2025)
+<ul>
+  <li>Lideré proyectos de desarrollo backend con Java 17, Quarkus y Docker.</li>
+  <li>Implementación de servicios en <b>AWS (Amazon EKS)</b> para asegurar escalabilidad y resiliencia.</li>
+  <li>Logro destacado: Reducción del tiempo de respuesta en un 30%.</li>
+</ul>
 
-**Analista Programador, Accenture** (Marzo 2023 - Junio 2024)
-* Migración de aplicaciones de Java 6 a Java 11.
-* Diseño e implementación de microservicios con **Spring Boot** e integración con PostgreSQL.
-* Logro destacado: Mejora de la escalabilidad del sistema en un 20%.
+<b>Analista Programador, Accenture</b> (Marzo 2023 - Junio 2024)
+<ul>
+  <li>Migración de aplicaciones de Java 6 a Java 11.</li>
+  <li>Diseño e implementación de microservicios con <b>Spring Boot</b> e integración con PostgreSQL.</li>
+  <li>Logro destacado: Mejora de la escalabilidad del sistema en un 20%.</li>
+</ul>
 
-**Programador Senior, Inetum** (Noviembre 2021 - Marzo 2023)
-* Desarrollo de funcionalidades y servicios RESTful en Java 8 con Spring Boot.
-* Logro destacado: Optimización del rendimiento en un 15% mediante mejoras en la base de datos.
+<b>Programador Senior, Inetum</b> (Noviembre 2021 - Marzo 2023)
+<ul>
+  <li>Desarrollo de funcionalidades y servicios RESTful en Java 8 con Spring Boot.</li>
+  <li>Logro destacado: Optimización del rendimiento en un 15% mediante mejoras en la base de datos.</li>
+</ul>
 
----
+<hr/>
 
-**📚 Formación**
+<div align="center">
+  <h3>📚 Formación</h3>
+</div>
 
-* **Arquitectura Big Data** (165 horas) (Fórmate, 2024)
-* **CFGS Desarrollo de Aplicaciones Multiplataforma** (Institut Francesc Vidal I Barraquer, 2016-2018)
+<ul>
+  <li><b>Arquitectura Big Data</b> (165 horas) (Fórmate, 2024)</li>
+  <li><b>CFGS Desarrollo de Aplicaciones Multiplataforma</b> (Institut Francesc Vidal I Barraquer, 2016-2018)</li>
+</ul>
+
+<br/>
