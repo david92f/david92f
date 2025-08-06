@@ -1,4 +1,4 @@
-### hi 👋, I'm David Fernández
+### Hi 👋, I'm David Fernández
 
 Analista Programador & Senior Consultant | Java | Microservicios | Cloud (AWS) | Migraciones Tecnológicas
 
@@ -28,7 +28,6 @@ Analista Programador & Senior Consultant | Java | Microservicios | Cloud (AWS) |
 
 * **Email:** david_92f@live.com
 * **LinkedIn:** https://www.linkedin.com/in/david-fernandez-fernandez/
-* **Teléfono:** 634034917
 
 ---
 
